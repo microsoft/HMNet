@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 import math
 import torch
 from torch.optim.optimizer import Optimizer, required

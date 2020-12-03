@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 from .iterators import create_source_iterator, SelectManyIterator, PrefetchIterator, BufferedShuffleIterator, BlockwiseShuffleIterator, MapIterator
 from typing import List, Union, Iterable, Iterator, Callable, Any, Optional, Dict
 import os, sys

@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 #!/usr/bin/python3.6
 
 # simple command-line wrapper around the chunked_dataset_iterator

@@ -1,4 +1,6 @@
-# adapted from pytorch-openai-transformer-lm
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 import copy
 import json
 import math

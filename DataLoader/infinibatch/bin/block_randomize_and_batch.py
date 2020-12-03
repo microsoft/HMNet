@@ -1,3 +1,7 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
+
 #!/usr/bin/python3.6
 
 # simple command-line wrapper around BucketedReadaheadBatchIterator on a IterableChunkedDataset

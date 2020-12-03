@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 class Task:
     '''
         This class is the ensemble of two classes: BatchGen and Eval.

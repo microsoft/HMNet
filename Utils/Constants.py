@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 PAD_WORD_ID = 0
 UNK_WORD_ID = 1
 END_WORD_ID = 2
