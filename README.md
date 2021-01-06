@@ -38,7 +38,7 @@ The training log/model/settings could be found at `ExampleConf/conf_hmnet_AMI_co
 
 ### Data paths
 
-- `ExampleRawData/meeting_summarization/AMI_proprec`: The preprocessed AMI dataset. The `*.json` files point to the path to each split. Each folder (`train`, `dev` or `test`) contains the compressed chunks of data in the format for infinibatch.
+- `ExampleRawData/meeting_summarization/AMI_proprec`: The preprocessed AMI dataset. The `*.json` files point to the path to each split. Each folder (`train`, `dev` or `test`) contains the compressed chunks of data in the format for [infinibatch](https://github.com/microsoft/infinibatch).
 
 - `ExampleRawData/meeting_summarization/ICSI_proprec`: Same as above for ICSI dataset.
 
